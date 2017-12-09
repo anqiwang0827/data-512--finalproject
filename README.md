@@ -20,6 +20,7 @@ The project has the following structure:
      * |- README.md  
      * |- LICENSE  
      * |- Pay-Gap-Analysis.ipynb  
+     * |- Abstract  
      * |- Data
         * |- inc_occ_gender.csv
 
@@ -42,6 +43,9 @@ And detailed steps are documented and presented to
 2) Show occupations that have highest-lowest percentage of women workers in bar graph.
 3) Show the percentage of women workers in the 10 most paid occupations in bar graph.
 4) Show the cccupations that have the biggest/smallest wage gap between men and women workers in bar graph.  
+
+## Abstract
+Summary of the 'How Big is the Gap' project.  
 
 ## Data
 The dataset used for analysis is the income information for different occupations from Kaggle, retrieved from Bureau of Labor Statistics. It is available here: https://www.kaggle.com/jonavery/incomes-by-career-and-gender/data. 
